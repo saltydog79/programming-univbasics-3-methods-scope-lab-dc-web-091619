@@ -10,7 +10,7 @@ def toadstool
 end
 
 
-def any_phrase
+def any_phrase(phrase)
 barrel_phrase = "Do A Barrel Roll!"
 puts barrel_phrase
 end
