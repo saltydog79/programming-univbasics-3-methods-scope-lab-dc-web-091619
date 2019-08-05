@@ -11,6 +11,6 @@ end
 
 
 def any_phrase
-phrase = "Do A Barrel Roll!"
-puts phrase
+barrel_phrase = "Do A Barrel Roll!"
+puts barrel_phrase
 end
