@@ -10,6 +10,12 @@ def toadstool
 end
 
 
+def link
+third_phrase = "It\'s Dangerous To Go Alone! Take This."
+puts third_phrase
+end
+
+
 def any_phrase(phrase)
 barrel_phrase = "Do A Barrel Roll!"
 puts barrel_phrase
